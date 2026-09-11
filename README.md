@@ -84,8 +84,8 @@
 
 ###
 
-<div data-importer="image" align="center">
+<p data-importer="image" align="center">
   <img data-importer="image" style="width: 100%; max-width: 100%; height: auto;" src="https://i.pinimg.com/originals/63/60/a1/6360a15bab6a013ad96e857ba398537d.gif"  />
-</div>
+</p>
 
 ###
