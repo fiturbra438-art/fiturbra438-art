@@ -26,7 +26,7 @@
 
 <table width="100%" style="border: none; background: transparent;">
   <tr style="border: none;">
-    <td align="left" style="padding: 0; border: none; background: transparent;">
+    <td align="center" style="padding: 0; border: none; background: transparent;">
       <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="40" alt="windows8 logo" />
       <img width="8" />
       <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="40" alt="android logo" />
