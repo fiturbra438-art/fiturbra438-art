@@ -1,6 +1,5 @@
-<div data-importer="border" align="center">
-  <img style="width: 100%; display: block;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=80&fontColor=#6A5ACD&fontAlign=200&fontAlignY=200&rotate=0&stroke=FFFFFF&strokeWidth=50&descSize=100&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light" />
-  <h1 data-importer="text" style="border-bottom: none;">Welcome In FITUR Github</h1>
+<div align="center">
+  <img style="width: 100%; display: block;" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Welcome%20In%20FITUR%20Github&fontSize=40&fontAlignY=70&fontColor=000000&theme=gruvbox_light" />
 </div>
 
 ###
