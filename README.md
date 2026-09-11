@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 100%; display: block;" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Welcome%20In%20FITUR%20Github&fontSize=40&fontAlignY=70&fontColor=000000&theme=gruvbox_light" />
+  <img style="width: 100%; display: block;" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=6A5ACD&text=Welcome%20In%20FITUR%20Github&fontSize=40&fontAlignY=70&fontColor=FFFFFF" />
 </div>
 
 ###
