@@ -84,7 +84,7 @@
 
 ###
 
-<table align="center" width="100%" style="border: none; background: transparent;">
+<table width="100%" style="border: none; background: transparent; margin-left: -32px; margin-right: -32px; max-width: calc(100% + 64px);">
   <tr style="border: none;">
     <td align="center" style="padding: 0; border: none; background: transparent;">
       <img src="https://i.pinimg.com/originals/63/60/a1/6360a15bab6a013ad96e857ba398537d.gif" width="100%" style="display: block; width: 100%; border: none;" />
