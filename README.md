@@ -1,8 +1,10 @@
-<div data-importer="border">
+<div data-importer="border" style="line-height: 0;">
   <img style="width: 100%; display: block;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=80&fontColor=#6A5ACD&fontAlign=200&fontAlignY=200&rotate=0&stroke=FFFFFF&strokeWidth=50&descSize=100&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light" />
 </div>
 
-<h1 data-importer="text" align="center" style="margin-top: -30px; margin-bottom: 0px;">Welcome In FITUR Github</h1>
+<div align="center">
+  <b style="font-size: 32px;">Welcome In FITUR Github</b>
+</div>
 
 ###
 
