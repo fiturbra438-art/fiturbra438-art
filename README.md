@@ -84,10 +84,10 @@
 
 ###
 
-<table>
-  <tr>
-    <td align="center" style="padding: 0; border: none;">
-      <img src="https://i.pinimg.com/originals/63/60/a1/6360a15bab6a013ad96e857ba398537d.gif" width="100%" style="display: block; width: 100%;" />
+<table align="center" width="100%" style="border: none; background: transparent;">
+  <tr style="border: none;">
+    <td align="center" style="padding: 0; border: none; background: transparent;">
+      <img src="https://i.pinimg.com/originals/63/60/a1/6360a15bab6a013ad96e857ba398537d.gif" width="100%" style="display: block; width: 100%; border: none;" />
     </td>
   </tr>
 </table>
