@@ -87,7 +87,7 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="410" src="https://i.pinimg.com/originals/63/60/a1/6360a15bab6a013ad96e857ba398537d.gif"  />
+  <img data-importer="image" height="450" src="https://i.pinimg.com/originals/63/60/a1/6360a15bab6a013ad96e857ba398537d.gif"  />
 </div>
 
 
