@@ -84,8 +84,12 @@
 
 ###
 
-<p data-importer="image" align="center">
-  <img src="https://i.pinimg.com/originals/63/60/a1/6360a15bab6a013ad96e857ba398537d.gif" style="width: calc(100% + 64px); max-width: calc(100% + 64px); margin-left: -32px; margin-right: -32px; height: auto;" />
-</p>
+<table>
+  <tr>
+    <td align="center" style="padding: 0; border: none;">
+      <img src="https://i.pinimg.com/originals/63/60/a1/6360a15bab6a013ad96e857ba398537d.gif" width="100%" style="display: block; width: 100%;" />
+    </td>
+  </tr>
+</table>
 
 ###
